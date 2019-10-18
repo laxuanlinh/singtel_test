@@ -21,11 +21,6 @@ public class BirdTest {
     }
 
     @Test
-    public void birdShouldFly(){
-        bird.fly();
-    }
-
-    @Test
     public void birdShouldSing(){
         bird.sing();
     }

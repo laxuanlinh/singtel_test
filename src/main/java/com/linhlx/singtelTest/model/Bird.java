@@ -1,10 +1,6 @@
 package com.linhlx.singtelTest.model;
 
-public class Bird extends Animal implements Singable {
-
-    public void fly(){
-        System.out.println("I'm flying");
-    }
+public class Bird extends Animal implements Singable{
 
     @Override
     public void sing() {

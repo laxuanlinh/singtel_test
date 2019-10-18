@@ -12,7 +12,7 @@ public class SingtelTestApplication {
 		SpringApplication.run(SingtelTestApplication.class, args);
 		Bird bird = new Bird();
 		bird.walk();
-		bird.fly();
+
 		bird.sing();
 	}
 
