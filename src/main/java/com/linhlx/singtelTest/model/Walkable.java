@@ -2,6 +2,8 @@ package com.linhlx.singtelTest.model;
 
 public interface Walkable {
 
-    void walk();
+    default void walk() {
+        System.out.println("I'm walking");
+    }
 
 }

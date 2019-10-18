@@ -2,6 +2,8 @@ package com.linhlx.singtelTest.model;
 
 public interface Swimable {
 
-    void swim();
+    default void swim(){
+        System.out.println("I'm swimming");
+    };
 
 }

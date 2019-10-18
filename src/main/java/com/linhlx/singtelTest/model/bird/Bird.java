@@ -11,8 +11,4 @@ public class Bird extends Animal implements Singable, Walkable {
         System.out.println("I'm singing");
     }
 
-    @Override
-    public void walk() {
-        System.out.println("I'm walking");
-    }
 }
