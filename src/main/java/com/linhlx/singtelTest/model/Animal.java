@@ -1,5 +1,5 @@
 package com.linhlx.singtelTest.model;
 
-public class Animal {
+public abstract class Animal {
 
 }
