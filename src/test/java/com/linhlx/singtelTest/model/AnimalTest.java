@@ -16,10 +16,4 @@ public class AnimalTest {
         assertNotNull(animal);
     }
 
-    @Test
-    public void animalShouldWalk(){
-        animal = new Animal();
-        animal.walk();
-    }
-
 }

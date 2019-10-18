@@ -1,4 +1,4 @@
-package com.linhlx.singtelTest.model.parrot;
+package com.linhlx.singtelTest.model.bird.parrot;
 
 import com.linhlx.singtelTest.model.Animal;
 import com.linhlx.singtelTest.model.Soundable;

@@ -1,7 +1,6 @@
 package com.linhlx.singtelTest;
 
-import com.linhlx.singtelTest.model.Animal;
-import com.linhlx.singtelTest.model.Bird;
+import com.linhlx.singtelTest.model.bird.Bird;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

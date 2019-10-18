@@ -1,4 +1,4 @@
-package com.linhlx.singtelTest.model;
+package com.linhlx.singtelTest.model.bird;
 
 public class Rooster extends Chicken{
 

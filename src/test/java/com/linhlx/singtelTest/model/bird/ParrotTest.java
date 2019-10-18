@@ -1,7 +1,7 @@
-package com.linhlx.singtelTest.model;
+package com.linhlx.singtelTest.model.bird;
 
-import com.linhlx.singtelTest.model.parrot.LiveNearType;
-import com.linhlx.singtelTest.model.parrot.Parrot;
+import com.linhlx.singtelTest.model.bird.parrot.LiveNearType;
+import com.linhlx.singtelTest.model.bird.parrot.Parrot;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

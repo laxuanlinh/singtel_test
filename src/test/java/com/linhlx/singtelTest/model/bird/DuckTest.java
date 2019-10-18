@@ -1,5 +1,6 @@
-package com.linhlx.singtelTest.model;
+package com.linhlx.singtelTest.model.bird;
 
+import com.linhlx.singtelTest.model.bird.Duck;
 import org.junit.Before;
 import org.junit.Test;
 

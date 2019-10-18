@@ -1,4 +1,4 @@
-package com.linhlx.singtelTest.model.parrot;
+package com.linhlx.singtelTest.model.bird.parrot;
 
 public enum LiveNearType {
 
